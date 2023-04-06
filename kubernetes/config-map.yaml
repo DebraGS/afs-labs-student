@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: feature-taggle
+  namespace: dgordonsmith
+data:
+  LOCATION_FEATURE_ENABLED: "False"
