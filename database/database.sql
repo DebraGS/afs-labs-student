@@ -1,4 +1,5 @@
---
+-- This is DebraGS adding a comment
+-- 
 -- PostgreSQL database dump
 --
 
